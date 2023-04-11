@@ -32,4 +32,4 @@ Enjoy!
 
 ---------------------
 
-The first (but since abandoned) version of this tool was built by [tsubaki](https://github.com/tsubaki).
+The first (but since abandoned) version of this tool was built by [Bilal Ahmad](https://github.com/bilalahmad44225).
